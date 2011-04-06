@@ -22,7 +22,6 @@ or if you are using a .rvmrc file, MagLev should start automatically.
 * whr (where in the Ruby)
 * whr some\_string like whr raise (search through stack)
 * cont to continue
-* fr\_cls ?
 
 ## Some debug output
     topaz 1> set class @176477441
