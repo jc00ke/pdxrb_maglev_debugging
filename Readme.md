@@ -23,6 +23,10 @@ or if you are using a .rvmrc file, MagLev should start automatically.
 * whr some\_string like whr raise (search through stack)
 * cont to continue
 
+## Edit & Fix
+* [@avdi's](http://twitter.com/avdi) [hammertime](https://github.com/avdi/hammertime)
+* Coming to a Rubinius near you (If Evan man's up on the dare)
+
 ## Some debug output
     topaz 1> set class @176477441
     topaz 1> rubylook meth devise                                                                                                                                      
